@@ -3,6 +3,7 @@
 ## Para creditg500.arff:
 
   Considerei:
+  
      -> Árvores de Decisão (J48 no Weka);
      
      -> Naive Bayes;

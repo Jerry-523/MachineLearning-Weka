@@ -1,14 +1,14 @@
 # MachineLearning-Weka
 
-## Para creditg500.arff:
+## For creditg500.arff:
 
-###  Considerei:
+###  I choose these algorithms:
   
-     -> Árvores de Decisão (J48 no Weka);
+     -> Decision Tree (J48 no Weka);
      
      -> Naive Bayes;
      
-  Esses algoritmos são adequados para tarefas de classificação binária.
+  These algorithms are suitable for binary classification tasks.
 
  ### Results from 10-fold Cross-Validation:
 #### Naive Bayes:

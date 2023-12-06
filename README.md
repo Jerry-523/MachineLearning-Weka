@@ -38,9 +38,8 @@ J48 (C4.5 Decision Tree):
 
 Comparison:
 
-    Naive Bayes performed similarly in both evaluation methods, achieving an accuracy around 75% and showing consistent results in cross-validation and the train-test split.
-
-    J48 does not provide specific metrics for cross-validation but achieves the same accuracy (75.33%) as Naive Bayes in the train-test split.
+  Naive Bayes performed similarly in both evaluation methods, achieving an accuracy around 75% and showing consistent results in cross-validation and the train-test split.
+  J48 does not provide specific metrics for cross-validation but achieves the same accuracy (75.33%) as Naive Bayes in the train-test split.
 
 Selection:
 

@@ -44,5 +44,3 @@
 ### Selection:
 
 Considering the available information, Naive Bayes seems to have shown more consistency in performance between cross-validation and the 70%-30% train-test split. As both Naive Bayes and J48 yielded similar accuracy in the train-test split and Naive Bayes also showed good performance in cross-validation, Naive Bayes appears to be the slightly better-performing model due to its consistency in both evaluation methods.
-
-However, if you prioritize interpretability, J48 might be a better choice due to its tree-like structure, which is more interpretable than Naive Bayes' probability-based decision-making.

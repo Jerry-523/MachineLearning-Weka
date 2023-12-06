@@ -9,6 +9,10 @@
      -> Naive Bayes;
      
   These algorithms are suitable for binary classification tasks.
+  ### Validation
+![validation](https://github.com/Jerry-523/MachineLearning-Weka/assets/92488227/944b0f91-9495-45f1-a294-e3f048ee2c2f)
+
+  
 
  ### Results from 10-fold Cross-Validation:
 #### Naive Bayes:
